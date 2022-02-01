@@ -1,0 +1,31 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+.navbar-nav{
+    position: absolute;
+    align-items: center;
+}
+
+.li__quote{
+    margin-left: 20%;
+}
+.navbar-brand{
+    margin-right: 20%;
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.con img{
+    width: 300px;
+    height: 300px;
+}
+.photo_filter{
+    transition: all ease 0.5s;
+}
+.photo_filter:hover{
+    filter: brightness(50%);
+    transform: scale(1.1);
+}
+.white i{
+    margin: 5px;
+    text-decoration: none;}
+    .text-danger{
+        font-family: Georgia, 'Times New Roman', Times, serif;}
+    
